@@ -29,8 +29,17 @@ yarn-error.log*
 .idea/dictionaries/
 .idea/jsLibraryMappings.xml
 .idea/watcherTasks.xml
-.idea/inspectionProfiles/Project_Default.xml
 .idea/other.xml
+
+.idea/inspectionProfiles/Project_Default.xml
+.idea/libraries/R_User_Library.xml
+.idea/cafe-django-react.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
 
 # --------------------------------------------------------------------
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
